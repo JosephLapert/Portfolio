@@ -674,4 +674,6 @@ h4 {
 .cv {
   font-size: 1.8rem;
   margin-left: 300px;
+  background-color: #5ec576;
+  text-decoration: none;
 }
